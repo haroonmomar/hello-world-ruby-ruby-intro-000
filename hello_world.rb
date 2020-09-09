@@ -1,4 +1,4 @@
-condition = true
+condition = false
 another_condition = false
 if !condition || !another_condition
   puts "this evaluated to true"
