@@ -1,8 +1,2 @@
-condition = false
-another_condition = true
-if !condition || !another_condition
-  puts "this evaluated to true"
-else
-  puts "this evaluated to false"
-
-end
+a = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+print a
